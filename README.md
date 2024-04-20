@@ -1,2 +1,3 @@
 # PrimerParcialPoo_LariosOrellana_00029223
-Primer parcial Poo
+Primer parcial Poo, cambiando credenciales.
+
